@@ -1,1 +1,16 @@
-
+{
+  "default": {
+    "time_limit": 7200,
+    "description": "Default 2-hour limit for all users"
+  },
+  "username1": {
+    "playtime": 3600,
+    "time_limit": 7200,
+    "last_updated": 1712345678
+  },
+  "vip_user": {
+    "playtime": 1800,
+    "time_limit": 18000,
+    "last_updated": 1712345789
+  }
+}
